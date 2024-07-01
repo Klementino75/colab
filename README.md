@@ -1,3 +1,3 @@
 # Colab-first
 
-Colab-first for test.
+Colab-first
